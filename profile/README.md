@@ -1,5 +1,9 @@
 ## Welcome to Hubro Platform ! 🦉
 
+Hubro serves as a comprehensive study management system designed to facilitate the complete electronic administration of clinical studies. It supports various aspects of the study lifecycle, including patient recruitment, data collection, and the distribution of questionnaires, up until the study's conclusion.
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
